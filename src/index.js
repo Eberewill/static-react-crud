@@ -1,3 +1,5 @@
+
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
@@ -5,6 +7,8 @@ import App from './App';
 import Profile from './components/profile/Profile';
 import * as serviceWorker from './serviceWorker';
 import FriendsComponent from './components/friendComponent/FriendsComponent';
+
+
 
 
 ReactDOM.render(<FriendsComponent />, document.getElementById('root'));
